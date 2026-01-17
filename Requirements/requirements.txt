@@ -1,0 +1,5 @@
+Here's the candy data, collected through a survey of people's taste in chocolate before Halloween.
+
+1 - Clean the data
+
+2 - After cleaning the data, show which are the 15 most loved and 15 most hated chocolates.
